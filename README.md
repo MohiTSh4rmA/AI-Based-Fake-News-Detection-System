@@ -21,3 +21,10 @@ Uses TF-IDF Vectorization for feature extraction
 Trained using Linear SVC (Support Vector Machine)
 Efficient and optimized for performance
 Simple and easy-to-use prediction system
+
+
+Tech Stack
+Python 
+Scikit-learn
+Pandas & NumPy
+NLP (Text Processing)
